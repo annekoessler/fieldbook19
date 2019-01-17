@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Class Preparation Entry 1/18/19"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
+
+In chapter one of Amaranth Borsuk's *The Book*, Borsuk dives into rich detail about how the physicality of text evolves over time and how much different socities have contributed to this technology of transcription and text over time. I was immensely interested by the ancient Greek scholars' belief that writing was actually a threat to art of storytelling and debate (not surprising, since this is what they were masters of, *especially* Socrates). Borsuk quotes Socrates on page 56: "Transcription is a crutch that will both hamper memory and mire philosophical thought in ambiguity, leaving interpretation in the hands of the reader." First, the last part of this quote was completely foreign to me and new. In fact, if anything, I've been taught that finding your own meaning in a text is impressive and expected. Especially in academic settings, when we read a text nowadays, it is encouraged to express your own readings/interpretations of a text. This is something that most of us has been been taught: there isn't just one way to read something. Isn't that what analysis is all about in most literary-central classes? Reading this baffled me since it is strange to see the way interpretation and transcription were so poorly regarded by one of the most brilliant thinkers of the world, Socrates. I can't imagine the kind of horror Socrates would feel today, since the oral art of teaching is also very dependent on transcribed texts and different interpretations of these texts. This also leads me to wonder how much was left out of our knowledge of Greek philosophy/history if one of its most influential philosophers did not believe in writing down anything. Was confining this information to oral story-telling worth it? One could argue that insightful debates could still exist, regardless of its decision to transcribe or only have an existence through oral speech. 

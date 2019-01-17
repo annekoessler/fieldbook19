@@ -1,4 +1,11 @@
-1/15/19 - Class Preparation Entry
+---
+layout: post
+title: "1/16/19 Class Preparation Entry"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
 
 In Bonnie Mak's "How the Page Matters", the concept of *paginae* functioned in my further understanding of how paper not only was a vehicle for ideas, but that the page itself told its own story. Using papyrus as paper may seem outdated today, but the way Mak describes its use in the Egyptian and Greek socities is exciting and eye-opening. Something as simple as *paginae*, or columns, offered so many functions at the time. Mak writes that "designers understood the *pagina* as an organizational device that set important controls on the transmission of ideas and facilitated successful communication." Implementing *paginae* in a work not only sets up the page that is written, but it allows the writer/designer to organize their thoughts and allows the reader to take in this information in appropriate chunks so that not all the information is not incoherently clumped together. Thinking about the page as an organizing tool, it made me flash forward to the way we oragnize text without giving it too much thought today: charts in lab reports are clean and highlight important information from the text, emails are constructed (when done correctly) in short important sections that allow the reader to skim the text for the main subject, and how photographs/illustrations in textbooks may strengthen our understanding of a lesson or concept since we associate this image with that term in the reading. This made me wonder whether these writers at the time also understood how the *paginae* was an organizing tool or if it was just a way to transcribe information down. Is this interpretation of the *paginae* as an organizing tool the way the people at the time understood what *paginae* was? Or is it simply an observation made by scholars? 
 
