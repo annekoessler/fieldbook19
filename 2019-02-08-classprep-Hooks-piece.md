@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Class Preparation Entry 2/08/19"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
+
+In Adam G. Hooks' "How to Read like a Renaissance Reader", I was fascinated by how specific and literal the reading process was described. Today, reading is usually something that is second-nature to us; when we read a text, whether it is for our enjoyment or studies, it's not like we go through a specific "system" in our heads on how to read. However, I did find some similarities to the way you should read in the Renaissance to the methods we use today to close read a text. Close reading is a critical analysis of a text that hones on specific passages, lines, or parts to further support this analysis. It can also function as a way for someone to understand a confusing (or new) concept to them in a reading. For example, whenever I do not know what a word means I almost always look it up in the dictionary, write down the definition near this word on the text, and re-read the sections I did not understand because of these words. While I did not necessarily "analyze" the text through this, I did strengthen my understanding of the text. And this powerfully helps shape my analysis/ argument further more. In Hooks' piece, the old rule about how to read a text stood out to me: 
+
+"*Legere & non intelligere negligere est.*                    
+
+To read and not to understand what we read, or not to know how to make use of it, is nothing else but a neglect of all good learning; and a mere abuse of the means & helps to attain the same. It is no other thing but a very loss of our precious time, and of all our labour and cost bestowed therein, in regard of that which is read with understanding." 
+
+First, I fully believe in this rule or motto for reading since it speaks multitudes of truth that is applicable even today. After all, reading is timeless and learning from reading has been historically significant. If we just read a text to publically "read" it, meaning if we do not absorb or place any significance in this text, how is this beneficial? As the quote says, it is an extreme loss of "our precious time, and all of our labour and cost bestowed therein". Especially in high school, we are often forced to read texts that might not be of any interest to us. Some people might wonder: Why are we still reading *Moby Dick* today? Why aren't we introduced to more texts from authors of different ethnicities and backgrounds? The canonization of literature can sometimes be too restrictive, and at times, far too inclusive. I even admit that I've read some books just to "read" it and thus cannot reflect on it today. To clarify, I don't think that Hooks is saying that Renaissance men (unfortunately women were clearly excluded here) were expected to memorize and ingrain every single text you've ever read; rather, that they should read with a purpose and take as much as you can from this text. Reading is a significant process which, thanks to Hook's text, I now see as a learning tool in strengthening your own understanding of the world/art.  
