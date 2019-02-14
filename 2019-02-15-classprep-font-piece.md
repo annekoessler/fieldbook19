@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Class Preparation Entry 2/15/19"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
+
+In Chris Gayomali's "How typeface influences the way we read and think", I was struck by how a university student's grades fluctuated depending on which font he used. Out of the 52 essays he wrote, 11 were in Times Roman, 18 in Trebuchet MS and 23 in Georgia. It is important to note that the student did not change his thought process about these essays, and the only thing that changed across these essays was the choice of type. The results are interesting: those in Times Roman received an "A-", Trebuchet (unsurprisingly) a "B-" and Georgia (surprisingly, to me) an "A". In almost all of my classes and for a magazine (club on campus) I edit for, it is required that we write our essays/ articles in Times Roman font. I've always associated this kind of font with seriousness and regarding literary matters. Thus, I was shocked to read that many people prefer Georgia over Times Roman since it went against my idealization of the fonts. However, the student offered an explanation behind this odd observation: 
+
+*Maybe fonts speak a lot louder than we think they do. Especially to a professor who has to wade through a collection of them; Times seems to be the norm, so it really doesn't set off any subconscious triggers. Georgia is enough like Times to retain its academic feel, and is different enough to be something of a relief for the grader.*
+
+This now makes sense to me; a teacher most likely receives most of the essays in Times so it would not stand out in a "good" and "appealing" way. However, this is exactly what Georgia does; the content of the paper might not be that great in comparison to one written in Times, but this difference of font is crucial. Seeing something visually different resonates with the reader more, thus probably resulting in a higher grade. I even admit that when I receive articles for that magazine I edit for in silly looking fonts, such as comic sans, I can't take the work *that* seriously. If anything, it looks more like a rough draft or outline rather than the final copy. It's fascinating (and even scary) how much font can affect our works; Gayomali wonderfully captures this right at the beginning of the article when he mentions how CERN was revealing a very important discovery but its choice to display this information in comic sans was detrimental. Who could take this seriously in such a comical font? For me, I would find difficulty in validating its accurateness because of the distracting font.
+
+I decided to pick the font "Vulf Mono" designed by James T. Edmondson. This font drew me in because it looked so clean and organizational in writing something practical, such as lab reports or song sheets where it is crucial to be able to read the text clearly. However, I was surprised to read that the bandleader of the band Vulfpeck reached out to Edmondson to commission this typeface. This monospaced font helps greatly in coding environment, "where the consistent glypj width helps maintain legibility and uniformity in coding structure". I like this font because I think it makes it easier to read smaller font since these letters would all be spaced equally.  
