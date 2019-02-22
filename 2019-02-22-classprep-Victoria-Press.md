@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Class Preparation Entry 2/22/19"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
+
+In Sarah Werner's "Finding Women in the Printing Shop", I was genuinely surprised by the amount of women who have been involved with the printing press, since it always seemed like a predominantly male field. It was the 17th century after all, and at a first glance, I would just make this assumption since women generally had less professional standing than men during this time. However, after this reading and reading about the Victoria Press, I know that this is not *always* the case! As Werner explores in this article, only looking at the title pages of the book editions of *The Mothers Legacie* just revealed two women involved in the process: Jocelin and Barret. Upon further investigation, more and more women were discovered and it became clear that there was more to learn than from just a first glance. Much like how we might make false assumptions about power dynamics at first, it did require further research to unfold this discovery and I think that speaks multitudes of meaning; if no one had bothered to look into this book in the first place, would these women's names have been discovered at all? And if so, isn't that just disappointing to realize that it required further digging to discover these women? It's clear that *The Mothers Legacie*, was dealt by the hands of women when Werner concisely sums up their roles: 
+
+*In the course of this single book’s printing history, we’ve seen women in nearly all the roles associated with making books: a woman wrote it, a woman published it, a woman speculated with it, and a woman printed it.* 
+
+I appreciate how this line was close to the conclusion of the article since I think it beautifully encapsulates the main point of this piece; women have been just as influential in fields of labor as men, that we may have never even realized or thought about before. This discovery emerged from an exercise celebrating Ada Lovelace Day, which is perfect in that it mirrors what this day is all about: celebrating the achievements of women in STEM fields past and present. However, it makes me question whether these women's names would have been discovered if we did not have a day like Ada Lovelace Day. What I'm getting at is: does it require a very specific day about women in order to discover these past professionals, like the ones mentioned in the article? Why don't we spend our time and energy researching these lost voices just for the sake of doing it (and not because it is for a day dedicated to the appreciation of women). I do think having this kind of day is special and necessary, but it does make me a bit sad that this kind of research is not as normalized as many of the other work that is more common and public. 
