@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Class Preparation Entry 2/27/19"
+subheadline: " "
+categories:
+    - fieldbooks
+comments: false
+---
+
+It is always so interesting to see different perspectives of reading culture. Very similar to how Anna North's New York Times article began, I was shocked to learn that "over-reading" was a behavior looked down upon, and even was thought to be the cause madness or disease. I look at my generation today, and we seem to just have the opposite problem--perhaps thanks to the distractions from phone apps and all the openness the Internet provides, but also that reading seems like more of a chore to the people I know. A majority of my friends are not majoring in English, so they always ask me: "How can you do it? Reading is so boring!" This statement always is annoying to hear (if you ever read an enjoyable book you wouldn't say that), but also disappointing. When did reading become such a chore, something as mundane as doing laundry or finishing a broad assignment for a class? While reading lengthy scholarly texts (especially in Old English) is difficult and may seem impossible at times, deciphering the words and meanings on the page can become so rewarding and just make you feel good. 
+
+In "Devouring Books", I couldn't believe that Madame de Stael Holstein's "devoured" *600* books in three months. This number is insanely high! I am not saying that the girl is crazy, but I am trying to figure out the logistics of reading this many books in such a short time. Also, is this number accurate? Or is this some kind of made-up tale that has been passed around? I question this because in Frank Furedi's "The Media's First Moral Panic", he discusses how the evidence behind the suicidal deaths of the *Werther* fever is lacking. He details this when he says, "The constant allusion to Miss G., to nameless victims and to similarly framed death scenes suggests that these reports had little factual content to draw on." I was fascinated by this article in general. To imagine people taking their lives all because of an emotional book just seems so literary and non-realistic. I hope our generation or future ones do not experience a panic like this one!
+
+Going back to "Devouring Books", I found the author's perspective on book consumption being selfish and wrong very interesting:
+
+*If this species of gluttony is pardonable in circumstances like those of Louis, it is less so in a young lady of fourteen or fifteen. No one can have time for reflection, who reads at this rapid rate. And whatever may be thought, these devourers of books are guilty of abusing nature, to an extent as much greater than those who overcharge their stomachs, as the intellectual powers are higher than the animal propensities.* 
+
+First, comparing reading to gluttony is something I've never seen before. When I think about reading, especially today, I see it more as an opportunity to learn and grow. In this text, it is clear that reading 600 books is an act of gluttony, and even more interestingly, the people who over-read are actually guilty of abusing nature. This is a huge statement to make against someone who just liked to read (at an excessive rate)! However, I did enjoy reading the reasoning behind this claim, since they believed that "the intellectual powers are higher than the animal propensities." This is quite an interesting point to make, and I can understand why these commentaries existed in the 19th century; reading 600 books is simply unfathomable and ends up just being an over consumption of reading to the point of retaining nothing. 
